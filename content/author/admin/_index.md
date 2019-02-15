@@ -37,7 +37,7 @@ interests = [
   year = 2010
 
 [[education.courses]]
-  course = "B.E. in Computer Science and Engineering"
+  course = "B.E. in Computer Science and Engineering (ACM Honor Class)"
   institution = "Shanghai Jiao Tong University"
   year = 2008
 
@@ -75,5 +75,5 @@ interests = [
   link = "files/cv.pdf"
 
 +++
-Dr. Bo Li is a computational biologist working on single cell RNA-Seq data analysis. He uses statistics and machine learning extensively in my research.
+Dr. Bo Li is a computational biologist working on single cell RNA-Seq data analysis. He uses statistics and machine learning extensively in research.
 

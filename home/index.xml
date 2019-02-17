@@ -129,6 +129,15 @@ To remove this section, either delete content/home/teaching.md or edit the front
     </item>
     
     <item>
+      <title>People</title>
+      <link>/home/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tags</title>
       <link>/home/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

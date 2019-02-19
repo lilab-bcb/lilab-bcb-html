@@ -12,6 +12,14 @@
     
     <url>
     
+      <loc>/software/prober/</loc>
+      <lastmod>2017-05-24T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/li-2017/</loc>
       <lastmod>2017-05-24T00:00:00-04:00</lastmod>
     </url>
@@ -44,6 +52,14 @@
     
     <url>
     
+      <loc>/software/detonate/</loc>
+      <lastmod>2014-12-21T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/li-2014/</loc>
       <lastmod>2014-12-21T00:00:00-05:00</lastmod>
     </url>
@@ -68,6 +84,14 @@
     
     <url>
     
+      <loc>/software/csem/</loc>
+      <lastmod>2011-07-14T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/chung-2011/</loc>
       <lastmod>2011-07-14T00:00:00-04:00</lastmod>
     </url>
@@ -77,6 +101,14 @@
     <url>
     
       <loc>/publication/li-2010/</loc>
+      <lastmod>2010-02-15T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/software/rsem/</loc>
       <lastmod>2010-02-15T00:00:00-05:00</lastmod>
     </url>
     
@@ -105,6 +137,13 @@
     
     <url>
     
+      <loc>/join-us/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/people/bo-li/</loc>
     </url>
     
@@ -113,6 +152,13 @@
     <url>
     
       <loc>/people/yiming-yang/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/research/</loc>
     </url>
     
   
@@ -228,6 +274,15 @@
     
       <loc>/authors/b.-yeung/</loc>
       <lastmod>2018-11-23T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/bo-li/</loc>
+      <lastmod>2017-05-24T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -603,6 +658,15 @@
     
     <url>
     
+      <loc>/authors/nathanael-fillmore/</loc>
+      <lastmod>2014-12-21T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/o.-rozenblatt-rosen/</loc>
       <lastmod>2018-11-23T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -740,13 +804,6 @@
     
     <url>
     
-      <loc>/research/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/authors/s.-aviran/</loc>
       <lastmod>2017-05-24T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -766,6 +823,7 @@
     <url>
     
       <loc>/software/</loc>
+      <lastmod>2017-05-24T00:00:00-04:00</lastmod>
     </url>
     
   

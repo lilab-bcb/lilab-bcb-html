@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Chung on Li Lab</title>
+    <link>/authors/d.-chung/</link>
+    <description>Recent content in D. Chung on Li Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Jul 2011 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/authors/d.-chung/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Discoevering Transcription Factor Binding Sites in Highly Repetitive Regions of Genomes with Multi-Read Analysis of ChIP-Seq Data</title>
+      <link>/publication/chung-2011/</link>
+      <pubDate>Thu, 14 Jul 2011 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/chung-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V. Ruotti on Li Lab</title>
+    <link>/authors/v.-ruotti/</link>
+    <description>Recent content in V. Ruotti on Li Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Feb 2010 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/authors/v.-ruotti/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RNA-Seq Gene Expression Estimation with Read Mapping Uncertainty</title>
+      <link>/publication/li-2010/</link>
+      <pubDate>Mon, 15 Feb 2010 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/li-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

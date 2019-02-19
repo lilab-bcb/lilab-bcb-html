@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. De Jager on Li Lab</title>
+    <link>/authors/p.-de-jager/</link>
+    <description>Recent content in P. De Jager on Li Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Nov 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/authors/p.-de-jager/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nuclei Multiplexing with Barcoded Antibodies for Single-Nucleus Genomics</title>
+      <link>/publication/gaublomme-2018/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/gaublomme-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

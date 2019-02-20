@@ -2,21 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C. Rojo on Li Lab</title>
-    <link>/authors/c.-rojo/</link>
+    <link>https://lilab-cbb.github.io/authors/c.-rojo/</link>
     <description>Recent content in C. Rojo on Li Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy;2019- Bo Li</copyright>
     <lastBuildDate>Tue, 20 Oct 2015 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/authors/c.-rojo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lilab-cbb.github.io/authors/c.-rojo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Perm-seq: Mapping Protein-DNA Interactions in Segmental Duplication and Highly Repetitive Regions of Genomes with Prior-Enhanced Read Mapping</title>
-      <link>/publication/zeng-2015/</link>
+      <link>https://lilab-cbb.github.io/publication/zeng-2015/</link>
       <pubDate>Tue, 20 Oct 2015 00:00:00 -0400</pubDate>
       
-      <guid>/publication/zeng-2015/</guid>
+      <guid>https://lilab-cbb.github.io/publication/zeng-2015/</guid>
       <description></description>
     </item>
     

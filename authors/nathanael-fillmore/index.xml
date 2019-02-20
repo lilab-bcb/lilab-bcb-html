@@ -2,21 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nathanael Fillmore on Li Lab</title>
-    <link>/authors/nathanael-fillmore/</link>
+    <link>https://lilab-cbb.github.io/authors/nathanael-fillmore/</link>
     <description>Recent content in Nathanael Fillmore on Li Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy;2019- Bo Li</copyright>
     <lastBuildDate>Sun, 21 Dec 2014 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/authors/nathanael-fillmore/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lilab-cbb.github.io/authors/nathanael-fillmore/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DETONATE (DE novo TranscriptOme rNa-seq Assembly with or without the Truth Evaluation)</title>
-      <link>/software/detonate/</link>
+      <link>https://lilab-cbb.github.io/software/detonate/</link>
       <pubDate>Sun, 21 Dec 2014 00:00:00 -0500</pubDate>
       
-      <guid>/software/detonate/</guid>
+      <guid>https://lilab-cbb.github.io/software/detonate/</guid>
       <description>A de novo transcriptome assembly evaluation package, which contains two components, RSEM-EVAL and REF-EVAL. Bo developed the RSEM-EVAL component.
 Publications:
  DETONATE paper  </description>

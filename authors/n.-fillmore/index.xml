@@ -2,21 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>N. Fillmore* on Li Lab</title>
-    <link>/authors/n.-fillmore/</link>
+    <link>https://lilab-cbb.github.io/authors/n.-fillmore/</link>
     <description>Recent content in N. Fillmore* on Li Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy;2019- Bo Li</copyright>
     <lastBuildDate>Sun, 21 Dec 2014 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/authors/n.-fillmore/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lilab-cbb.github.io/authors/n.-fillmore/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Evaluation of de novo Transcriptome Assemblies from RNA-Seq Data</title>
-      <link>/publication/li-2014/</link>
+      <link>https://lilab-cbb.github.io/publication/li-2014/</link>
       <pubDate>Sun, 21 Dec 2014 00:00:00 -0500</pubDate>
       
-      <guid>/publication/li-2014/</guid>
+      <guid>https://lilab-cbb.github.io/publication/li-2014/</guid>
       <description></description>
     </item>
     

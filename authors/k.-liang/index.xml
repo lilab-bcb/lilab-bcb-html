@@ -2,21 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>K. Liang on Li Lab</title>
-    <link>/authors/k.-liang/</link>
+    <link>https://lilab-cbb.github.io/authors/k.-liang/</link>
     <description>Recent content in K. Liang on Li Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy;2019- Bo Li</copyright>
     <lastBuildDate>Thu, 14 Jul 2011 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/authors/k.-liang/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lilab-cbb.github.io/authors/k.-liang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Discoevering Transcription Factor Binding Sites in Highly Repetitive Regions of Genomes with Multi-Read Analysis of ChIP-Seq Data</title>
-      <link>/publication/chung-2011/</link>
+      <link>https://lilab-cbb.github.io/publication/chung-2011/</link>
       <pubDate>Thu, 14 Jul 2011 00:00:00 -0400</pubDate>
       
-      <guid>/publication/chung-2011/</guid>
+      <guid>https://lilab-cbb.github.io/publication/chung-2011/</guid>
       <description></description>
     </item>
     

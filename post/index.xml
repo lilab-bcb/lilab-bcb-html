@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2019- Bo Li</copyright>
+    <lastBuildDate>Tue, 19 Feb 2019 22:17:06 -0500</lastBuildDate>
     
 	<atom:link href="https://lilab-cbb.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Li Lab website is created!</title>
+      <link>https://lilab-cbb.github.io/post/li_lab_website_created/</link>
+      <pubDate>Tue, 19 Feb 2019 22:17:06 -0500</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/post/li_lab_website_created/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -667,6 +667,13 @@
     
     <url>
     
+      <loc>/news/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/o.-rozenblatt-rosen/</loc>
       <lastmod>2018-11-23T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -704,13 +711,6 @@
     <url>
     
       <loc>/people/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/</loc>
     </url>
     
   

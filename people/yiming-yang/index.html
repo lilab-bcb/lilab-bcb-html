@@ -398,7 +398,104 @@
 
 <div class="universal-wrapper">
   
-  <div class="article-style" itemprop="articleBody"><p>Yiming Yang&rsquo;s self-introduction.</p>
+  <div class="article-style" itemprop="articleBody"><div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <div class="col-12 col-lg-4">
+    <div id="profile">
+
+      <img class="portrait" src="/img/yimingyang.png" itemprop="image" alt="Avatar">
+
+
+      <div class="portrait-title">
+        <h2 itemprop="name">Yiming Yang</h2>
+        <h3 itemprop="jobTitle">Computer Scientist</h3>
+
+        <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
+          <span itemprop="name">Massachusetts General Hospital</span>
+        </h3>
+
+      </div>
+
+<!---      <link itemprop="url" href="{{ .Permalink }}">  -->
+
+<!---
+      <ul class="network-icon" aria-hidden="true">
+        {{ range $person.social }}
+        {{ $pack := or .icon_pack "fas" }}
+        {{ $pack_prefix := $pack }}
+        {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+          {{ $pack_prefix = "fa" }}
+        {{ end }}
+        {{ $link := .link }}
+        {{ $scheme := (urls.Parse $link).Scheme }}
+        {{ $target := "" }}
+        {{ if not $scheme }}
+          {{ $link = .link | relLangURL }}
+        {{ else if in (slice "http" "https") $scheme }}
+          {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+        {{ end }}
+        <li>
+          <a itemprop="sameAs" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
+            <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+-->
+
+<p></div>
+  </div></p>
+
+<p><div class="col-12 col-lg-8" itemprop="description">
+<h1>About</h1></p>
+
+<p>To be finished.</p>
+
+<div class="row">
+
+
+      <div class="col-md-5">
+        <h3>Interest</h3>
+        <ul class="ul-interests">
+          <li>Computational Biology</li>
+          <li>Machine Learning</li>
+          <li>GPU Computing</li>
+        </ul>
+      </div>
+
+<div class="col-md-7">
+        <h3>Education</h3>
+        <ul class="ul-edu fa-ul">
+
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">M.S. in Statistics, 2018</p>
+              <p class="institution">University of New Mexico</p>
+            </div>
+          </li>
+
+      <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">M.S. in Computer Science, 2013</p>
+              <p class="institution">University of New Mexico</p>
+            </div>
+          </li>
+
+      <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">B.S. in Computer Science and Technology, 2010</p>
+              <p class="institution">Beijing Normal University</p>
+            </div>
+          </li>
+
+        </ul>
+     </div>
+
+<p></div>
+ </div>
+</div></p>
 </div>
   
 

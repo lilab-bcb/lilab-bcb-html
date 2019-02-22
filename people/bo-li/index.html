@@ -399,7 +399,7 @@
 <div class="universal-wrapper">
   
   <div class="article-style" itemprop="articleBody"><div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person">
-  <div class="col-12 col-lg-4">
+  <div class="col-12 col-lg-4" width="300px">
     <div id="profile">
 
       <img class="portrait" src="/img/boli.png" itemprop="image" alt="Avatar">
@@ -418,32 +418,20 @@
 
       </div>
 
-<!---      <link itemprop="url" href="{{ .Permalink }}">  -->
-
-<!---
-      <ul class="network-icon" aria-hidden="true">
-        {{ range $person.social }}
-        {{ $pack := or .icon_pack "fas" }}
-        {{ $pack_prefix := $pack }}
-        {{ if in (slice "fab" "fas" "far" "fal") $pack }}
-          {{ $pack_prefix = "fa" }}
-        {{ end }}
-        {{ $link := .link }}
-        {{ $scheme := (urls.Parse $link).Scheme }}
-        {{ $target := "" }}
-        {{ if not $scheme }}
-          {{ $link = .link | relLangURL }}
-        {{ else if in (slice "http" "https") $scheme }}
-          {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
-        {{ end }}
-        <li>
-          <a itemprop="sameAs" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
-            <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
-          </a>
-        </li>
-        {{ end }}
-      </ul>
--->
+<ul class="network-icon" aria-hidden="true">
+  <li>
+    <a itemprop="sameAs" href="mailto:bli28@mgh.harvard.edu"><i class="fas fa-envelope big-icon"></i></a>
+  </li>
+  <li>
+    <a itemprop="sameAs" href="https://scholar.google.com/citations?user=Tirzt6YAAAAJ" target="_blank"><i class="ai ai-google-scholar big-icon"></i></a>
+  </li>
+  <li>
+    <a itemprop="sameAs" href="https://github.com/bli25broad" target="_blank"><i class="fab fa-github big-icon"></i></a>
+  </li>
+  <li>
+    <a itemprop="sameAs" href="/files/BoLi_HMS_CV.pdf" target="_blank"><i class="ai ai-cv big-icon"></i></a>
+  </li>
+</ul>
 
 <p></div>
   </div></p>
@@ -460,6 +448,8 @@
         <h3>Interest</h3>
         <ul class="ul-interests">
           <li>Computational Biology</li>
+      <li>Machine Learning</li>
+      <li>Statistics</li>
         </ul>
       </div>
 

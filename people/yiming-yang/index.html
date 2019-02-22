@@ -415,32 +415,20 @@
 
       </div>
 
-<!---      <link itemprop="url" href="{{ .Permalink }}">  -->
-
-<!---
-      <ul class="network-icon" aria-hidden="true">
-        {{ range $person.social }}
-        {{ $pack := or .icon_pack "fas" }}
-        {{ $pack_prefix := $pack }}
-        {{ if in (slice "fab" "fas" "far" "fal") $pack }}
-          {{ $pack_prefix = "fa" }}
-        {{ end }}
-        {{ $link := .link }}
-        {{ $scheme := (urls.Parse $link).Scheme }}
-        {{ $target := "" }}
-        {{ if not $scheme }}
-          {{ $link = .link | relLangURL }}
-        {{ else if in (slice "http" "https") $scheme }}
-          {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
-        {{ end }}
-        <li>
-          <a itemprop="sameAs" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
-            <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
-          </a>
-        </li>
-        {{ end }}
-      </ul>
--->
+<ul class="network-icon" aria-hidden="true">
+  <li>
+    <a itemprop="sameAs" href="mailto:yang.yihming@gmail.com"><i class="fas fa-envelope big-icon"></i></a>
+  </li>
+  <li>
+    <a itemprop="sameAs" href="https://scholar.google.com/citations?user=MbGJXJIAAAAJ" target="_blank"><i class="ai ai-google-scholar big-icon"></i></a>
+  </li>
+  <li>
+    <a itemprop="sameAs" href="https://github.com/yihming" target="_blank"><i class="fab fa-github big-icon"></i></a>
+  </li>
+  <li>
+    <a itemprop="sameAs" href="http://www.linkedin.com/pub/yiming-yang/3b/75b/43b" target="_blank"><i class="fab fa-linkedin big-icon"></i></a>
+  </li>
+</ul>
 
 <p></div>
   </div></p>

@@ -7,25 +7,70 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2019- Bo Li</copyright>
-    <lastBuildDate>Tue, 19 Feb 2019 22:17:06 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Nuclei Multiplexing with Barcoded Antibodies for Single-Nucleus Genomics</title>
+      <link>https://lilab-cbb.github.io/publication/gaublomme-2019/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/publication/gaublomme-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our nucleus hashing and DemuxEM paper is published in Nature Communications today!</title>
+      <link>https://lilab-cbb.github.io/post/paper_published_in_nature_communications/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/post/paper_published_in_nature_communications/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Li Lab website is created!</title>
       <link>https://lilab-cbb.github.io/post/li_lab_website_created/</link>
-      <pubDate>Tue, 19 Feb 2019 22:17:06 -0500</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
       
       <guid>https://lilab-cbb.github.io/post/li_lab_website_created/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Nuclei Multiplexing with Barcoded Antibodies for Single-Nucleus Genomics</title>
-      <link>https://lilab-cbb.github.io/publication/gaublomme-2018/</link>
-      <pubDate>Fri, 23 Nov 2018 00:00:00 -0500</pubDate>
+      <title>scCloud</title>
+      <link>https://lilab-cbb.github.io/software/sccloud/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://lilab-cbb.github.io/publication/gaublomme-2018/</guid>
-      <description></description>
+      <guid>https://lilab-cbb.github.io/software/sccloud/</guid>
+      <description>&lt;p&gt;scCloud is a cloud-based single-cell and single-nucleus RNA-Seq data analysis framework that is scalable, cost-effective, able to process a variety of data types and easily accessible to biologists. It is developed based on Google Cloud Platform and Broad Institute’s FireCloud and Terra services, and is publicly accessible. scCloud source codes contain two components.  The first component consists of WDL (Workflow Description Language) files and Docker files that are required for workflow execution and listed here. The second component is a Python package scCloudPy for analyzing gene-count matrices.&lt;/p&gt;
+
+&lt;p&gt;Click here to read &lt;a href=&#34;https://kco-cloud.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34;&gt;scCloud documentation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Publications:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Manuscript in preparation.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>scCloudPy</title>
+      <link>https://lilab-cbb.github.io/software/sccloudpy/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/software/sccloudpy/</guid>
+      <description>&lt;p&gt;scCloudPy is a python package that takes gene-count matrices as input and performs a wide range of analyses, such as quality control, highly variable gene selection, batch correction, principal component analysis (PCA), k-nearest neighbor graph construction, diffusion map, clustering, t-SNE-, UMAP-, and force-directed layout-based visualization, differential expression, cluster-specific marker detection and marker-based cell type annotation.&lt;/p&gt;
+
+&lt;p&gt;Click here to read &lt;a href=&#34;https://sccloud.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34;&gt;scCloudPy documentation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Publications:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Manuscript in preparation.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -137,41 +182,6 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://lilab-cbb.github.io/publication/chung-2011&#34;&gt;CSEM paper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Discoevering Transcription Factor Binding Sites in Highly Repetitive Regions of Genomes with Multi-Read Analysis of ChIP-Seq Data</title>
-      <link>https://lilab-cbb.github.io/publication/chung-2011/</link>
-      <pubDate>Thu, 14 Jul 2011 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/publication/chung-2011/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RNA-Seq Gene Expression Estimation with Read Mapping Uncertainty</title>
-      <link>https://lilab-cbb.github.io/publication/li-2010/</link>
-      <pubDate>Mon, 15 Feb 2010 00:00:00 -0500</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/publication/li-2010/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RSEM (RNA-Seq by Expectation-Maximization)</title>
-      <link>https://lilab-cbb.github.io/software/rsem/</link>
-      <pubDate>Mon, 15 Feb 2010 00:00:00 -0500</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/software/rsem/</guid>
-      <description>&lt;p&gt;RSEM is a widely-used RNA-Seq transcript quantification tool. RSEM papers are cited over 5,300 times. It was served in nationwide consortium projects such as ENCODE (The Encyclopedia of DNA Elements) and TCGA (The Cancer Genome Altas). It is also recommended by HCA (Human Cell Atlas) for analyzing plate-based SMART-Seq2 single-cell RNA-Seq data.&lt;/p&gt;
-
-&lt;p&gt;Publications:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lilab-cbb.github.io/publication/li-2010&#34;&gt;RSEM algorithm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://lilab-cbb.github.io/publication/li-2011&#34;&gt;RSEM software&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

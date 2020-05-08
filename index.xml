@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Li Lab on Li Lab</title>
@@ -11,179 +10,89 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Nuclei Multiplexing with Barcoded Antibodies for Single-Nucleus Genomics</title>
-      <link>https://lilab-cbb.github.io/publication/gaublomme-2019/</link>
+      <title>News</title>
+      <link>https://lilab-cbb.github.io/post/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://lilab-cbb.github.io/publication/gaublomme-2019/</guid>
+      <guid>https://lilab-cbb.github.io/post/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Our nucleus hashing and DemuxEM paper is published in Nature Communications today!</title>
-      <link>https://lilab-cbb.github.io/post/paper_published_in_nature_communications/</link>
+      <title>Publications</title>
+      <link>https://lilab-cbb.github.io/publication/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://lilab-cbb.github.io/post/paper_published_in_nature_communications/</guid>
-      <description></description>
+      <guid>https://lilab-cbb.github.io/publication/</guid>
+      <description>&lt;p&gt;* Equal contributors&lt;/p&gt;
+&lt;p&gt;! Correspondence&lt;/p&gt;
+&lt;p&gt;Li lab members are highlighted in bold.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>The Li Lab website is created!</title>
-      <link>https://lilab-cbb.github.io/post/li_lab_website_created/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/post/li_lab_website_created/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>scCloud</title>
-      <link>https://lilab-cbb.github.io/software/sccloud/</link>
+      <title>Software</title>
+      <link>https://lilab-cbb.github.io/software/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://lilab-cbb.github.io/software/sccloud/</guid>
-      <description>&lt;p&gt;scCloud is a cloud-based single-cell and single-nucleus RNA-Seq data analysis framework that is scalable, cost-effective, able to process a variety of data types and easily accessible to biologists. It is developed based on Google Cloud Platform and Broad Institute’s FireCloud and Terra services, and is publicly accessible. scCloud source codes contain two components.  The first component consists of WDL (Workflow Description Language) files and Docker files that are required for workflow execution and listed here. The second component is a Python package scCloudPy for analyzing gene-count matrices.&lt;/p&gt;
-
-&lt;p&gt;Click here to read &lt;a href=&#34;https://kco-cloud.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34;&gt;scCloud documentation&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Publications:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Manuscript in preparation.&lt;/li&gt;
-&lt;/ul&gt;
+      <guid>https://lilab-cbb.github.io/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lilab-cbb.github.io/join-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/join-us/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
-      <title>scCloudPy</title>
-      <link>https://lilab-cbb.github.io/software/sccloudpy/</link>
-      <pubDate>Fri, 27 Jul 2018 00:00:00 -0400</pubDate>
+      <title></title>
+      <link>https://lilab-cbb.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lilab-cbb.github.io/software/sccloudpy/</guid>
-      <description>&lt;p&gt;scCloudPy is a python package that takes gene-count matrices as input and performs a wide range of analyses, such as quality control, highly variable gene selection, batch correction, principal component analysis (PCA), k-nearest neighbor graph construction, diffusion map, clustering, t-SNE-, UMAP-, and force-directed layout-based visualization, differential expression, cluster-specific marker detection and marker-based cell type annotation.&lt;/p&gt;
-
-&lt;p&gt;Click here to read &lt;a href=&#34;https://sccloud.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34;&gt;scCloudPy documentation&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Publications:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Manuscript in preparation.&lt;/li&gt;
-&lt;/ul&gt;
+      <guid>https://lilab-cbb.github.io/research/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;We focus on developing standard operating procedures (SOPs) for scalable single-cell and single-nuclei genomics data analysis so that immunologists in our department can better focus on deciphering the mechanism of immunology disorders and thus enhancing patient care by utilizing the state-of-the-art single-cell genomics technology and do not need to worry about computational analysis.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>PROBer</title>
-      <link>https://lilab-cbb.github.io/software/prober/</link>
-      <pubDate>Wed, 24 May 2017 00:00:00 -0400</pubDate>
+      <title>Authors</title>
+      <link>https://lilab-cbb.github.io/author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lilab-cbb.github.io/software/prober/</guid>
-      <description>&lt;p&gt;PROBer is the first unified probabilistic framework for the analysis of a diverse set of sequencing-based ‘toeprinting’ assays. These assays are used to probe RNA secondary structure (DMS/SHAPE-Seq), detect epitranscriptomic mark (Pseudo-Seq), or identify RNA-protein interaction (iCLIP/eCLIP), which are important to understanding post-transcriptional gene regulation from all aspects.&lt;/p&gt;
-
-&lt;p&gt;Click here to view &lt;a href=&#34;http://pachterlab.github.io/PROBer/&#34; target=&#34;_blank&#34;&gt;PROBer website&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Publications:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lilab-cbb.github.io/publication/li-2017&#34;&gt;PROBer paper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+      <guid>https://lilab-cbb.github.io/author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://lilab-cbb.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/people/</guid>
+      <description>&lt;hr&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;hr&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;hr&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;hr&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
-      <title>PROBer Provides a General Toolkit for Analyzing Sequencing-Based Toeprinting Assays</title>
-      <link>https://lilab-cbb.github.io/publication/li-2017/</link>
-      <pubDate>Wed, 24 May 2017 00:00:00 -0400</pubDate>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://lilab-cbb.github.io/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lilab-cbb.github.io/publication/li-2017/</guid>
+      <guid>https://lilab-cbb.github.io/talk/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>STAR-Fusion: Fast and Accurate Fusion Transcript Detection from RNA-Seq</title>
-      <link>https://lilab-cbb.github.io/publication/haas-2017/</link>
-      <pubDate>Fri, 24 Mar 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/publication/haas-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Metrics for Rapid Quality Control in RNA Structure Probing Experiments</title>
-      <link>https://lilab-cbb.github.io/publication/choudhary-2016/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/publication/choudhary-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Perm-seq: Mapping Protein-DNA Interactions in Segmental Duplication and Highly Repetitive Regions of Genomes with Prior-Enhanced Read Mapping</title>
-      <link>https://lilab-cbb.github.io/publication/zeng-2015/</link>
-      <pubDate>Tue, 20 Oct 2015 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/publication/zeng-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DETONATE (DE novo TranscriptOme rNa-seq Assembly with or without the Truth Evaluation)</title>
-      <link>https://lilab-cbb.github.io/software/detonate/</link>
-      <pubDate>Sun, 21 Dec 2014 00:00:00 -0500</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/software/detonate/</guid>
-      <description>&lt;p&gt;A de novo transcriptome assembly evaluation package, which contains two components, RSEM-EVAL and REF-EVAL. Bo developed the RSEM-EVAL component.&lt;/p&gt;
-
-&lt;p&gt;Publications:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lilab-cbb.github.io/publication/li-2014&#34;&gt;DETONATE paper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Evaluation of de novo Transcriptome Assemblies from RNA-Seq Data</title>
-      <link>https://lilab-cbb.github.io/publication/li-2014/</link>
-      <pubDate>Sun, 21 Dec 2014 00:00:00 -0500</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/publication/li-2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>De novo Transcript Sequence Reconstruction from RNA-seq using the Trinity Platform for Reference Generation and Analysis</title>
-      <link>https://lilab-cbb.github.io/publication/haas-2013/</link>
-      <pubDate>Thu, 11 Jul 2013 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/publication/haas-2013/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RSEM: Accurate Transcript Quantification from RNA-Seq Data with or without a Reference Genome</title>
-      <link>https://lilab-cbb.github.io/publication/li-2011/</link>
-      <pubDate>Thu, 04 Aug 2011 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/publication/li-2011/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CSEM (ChIP-Seq multi-read allocation using Expectation-Maximization)</title>
-      <link>https://lilab-cbb.github.io/software/csem/</link>
-      <pubDate>Thu, 14 Jul 2011 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/software/csem/</guid>
-      <description>&lt;p&gt;As one of the first ChIP-Seq multi-mapping read allocators, CSEM allows multi-reads to be utilized by peak callers.&lt;/p&gt;
-
-&lt;p&gt;Publications:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lilab-cbb.github.io/publication/chung-2011&#34;&gt;CSEM paper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
   </channel>

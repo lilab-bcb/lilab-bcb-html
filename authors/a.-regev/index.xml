@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Regev! on Li Lab</title>
@@ -18,6 +18,24 @@
       <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
       
       <guid>https://lilab-cbb.github.io/publication/gaublomme-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STAR-Fusion: Fast and Accurate Fusion Transcript Detection from RNA-Seq</title>
+      <link>https://lilab-cbb.github.io/publication/haas-2017/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/publication/haas-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De novo Transcript Sequence Reconstruction from RNA-seq using the Trinity Platform for Reference Generation and Analysis</title>
+      <link>https://lilab-cbb.github.io/publication/haas-2013/</link>
+      <pubDate>Thu, 11 Jul 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/publication/haas-2013/</guid>
       <description></description>
     </item>
     

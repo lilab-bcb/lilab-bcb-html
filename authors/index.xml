@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Li Lab</title>
@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2019- Bo Li</copyright>
-    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 24 May 2017 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://lilab-cbb.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,216 +15,18 @@
     <item>
       <title>**B. Li**</title>
       <link>https://lilab-cbb.github.io/authors/b.-li/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 24 May 2017 00:00:00 -0400</pubDate>
       
       <guid>https://lilab-cbb.github.io/authors/b.-li/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A. Knecht</title>
-      <link>https://lilab-cbb.github.io/authors/a.-knecht/</link>
+      <title>**B. Li***</title>
+      <link>https://lilab-cbb.github.io/authors/b.-li/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://lilab-cbb.github.io/authors/a.-knecht/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. Regev!</title>
-      <link>https://lilab-cbb.github.io/authors/a.-regev/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/a.-regev/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>B. Yeung</title>
-      <link>https://lilab-cbb.github.io/authors/b.-yeung/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/b.-yeung/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C. McCabe</title>
-      <link>https://lilab-cbb.github.io/authors/c.-mccabe/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/c.-mccabe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>D. Dionne</title>
-      <link>https://lilab-cbb.github.io/authors/d.-dionne/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/d.-dionne/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E. Drokhlyansky</title>
-      <link>https://lilab-cbb.github.io/authors/e.-drokhlyansky/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/e.-drokhlyansky/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. T. Gaublomme*!</title>
-      <link>https://lilab-cbb.github.io/authors/j.-t.-gaublomme/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/j.-t.-gaublomme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. Waldman</title>
-      <link>https://lilab-cbb.github.io/authors/j.-waldman/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/j.-waldman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L. Nguyen</title>
-      <link>https://lilab-cbb.github.io/authors/l.-nguyen/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/l.-nguyen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>N. Habib</title>
-      <link>https://lilab-cbb.github.io/authors/n.-habib/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/n.-habib/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>N. Van Wittenberghe</title>
-      <link>https://lilab-cbb.github.io/authors/n.-van-wittenberghe/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/n.-van-wittenberghe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>O. Rozenblatt-Rosen!</title>
-      <link>https://lilab-cbb.github.io/authors/o.-rozenblatt-rosen/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/o.-rozenblatt-rosen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>P. De Jager</title>
-      <link>https://lilab-cbb.github.io/authors/p.-de-jager/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/p.-de-jager/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>X. Zhao</title>
-      <link>https://lilab-cbb.github.io/authors/x.-zhao/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/x.-zhao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Y. Yang</title>
-      <link>https://lilab-cbb.github.io/authors/y.-yang/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/y.-yang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bo Li</title>
-      <link>https://lilab-cbb.github.io/authors/bo-li/</link>
-      <pubDate>Fri, 27 Jul 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/bo-li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>et al.</title>
-      <link>https://lilab-cbb.github.io/authors/et-al./</link>
-      <pubDate>Fri, 27 Jul 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/et-al./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joshua Gould</title>
-      <link>https://lilab-cbb.github.io/authors/joshua-gould/</link>
-      <pubDate>Fri, 27 Jul 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/joshua-gould/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sirunush Sarkizova</title>
-      <link>https://lilab-cbb.github.io/authors/sirunush-sarkizova/</link>
-      <pubDate>Fri, 27 Jul 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/sirunush-sarkizova/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yiming Yang</title>
-      <link>https://lilab-cbb.github.io/authors/yiming-yang/</link>
-      <pubDate>Fri, 27 Jul 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/yiming-yang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. Tambe</title>
-      <link>https://lilab-cbb.github.io/authors/a.-tambe/</link>
-      <pubDate>Wed, 24 May 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/a.-tambe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L. Pachter</title>
-      <link>https://lilab-cbb.github.io/authors/l.-pachter/</link>
-      <pubDate>Wed, 24 May 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/l.-pachter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S. Aviran</title>
-      <link>https://lilab-cbb.github.io/authors/s.-aviran/</link>
-      <pubDate>Wed, 24 May 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/s.-aviran/</guid>
+      <guid>https://lilab-cbb.github.io/authors/b.-li/</guid>
       <description></description>
     </item>
     
@@ -247,11 +49,83 @@
     </item>
     
     <item>
+      <title>A. Knecht</title>
+      <link>https://lilab-cbb.github.io/authors/a.-knecht/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/a.-knecht/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Papanicolaou</title>
+      <link>https://lilab-cbb.github.io/authors/a.-papanicolaou/</link>
+      <pubDate>Thu, 11 Jul 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/a.-papanicolaou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Regev</title>
+      <link>https://lilab-cbb.github.io/authors/a.-regev/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/a.-regev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Regev!</title>
+      <link>https://lilab-cbb.github.io/authors/a.-regev/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/a.-regev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Tambe</title>
+      <link>https://lilab-cbb.github.io/authors/a.-tambe/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/a.-tambe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>B. Haas</title>
       <link>https://lilab-cbb.github.io/authors/b.-haas/</link>
       <pubDate>Fri, 24 Mar 2017 00:00:00 -0400</pubDate>
       
       <guid>https://lilab-cbb.github.io/authors/b.-haas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. Yeung</title>
+      <link>https://lilab-cbb.github.io/authors/b.-yeung/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/b.-yeung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bo Li</title>
+      <link>https://lilab-cbb.github.io/authors/bo-li/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/bo-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Dewey</title>
+      <link>https://lilab-cbb.github.io/authors/c.-dewey/</link>
+      <pubDate>Thu, 14 Jul 2011 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/c.-dewey/</guid>
       <description></description>
     </item>
     
@@ -265,110 +139,11 @@
     </item>
     
     <item>
-      <title>C. Wu</title>
-      <link>https://lilab-cbb.github.io/authors/c.-wu/</link>
-      <pubDate>Fri, 24 Mar 2017 00:00:00 -0400</pubDate>
+      <title>C. McCabe</title>
+      <link>https://lilab-cbb.github.io/authors/c.-mccabe/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://lilab-cbb.github.io/authors/c.-wu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. Sun</title>
-      <link>https://lilab-cbb.github.io/authors/j.-sun/</link>
-      <pubDate>Fri, 24 Mar 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/j.-sun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>N. Pochet</title>
-      <link>https://lilab-cbb.github.io/authors/n.-pochet/</link>
-      <pubDate>Fri, 24 Mar 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/n.-pochet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>N. Stransky</title>
-      <link>https://lilab-cbb.github.io/authors/n.-stransky/</link>
-      <pubDate>Fri, 24 Mar 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/n.-stransky/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>T. Doak</title>
-      <link>https://lilab-cbb.github.io/authors/t.-doak/</link>
-      <pubDate>Fri, 24 Mar 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/t.-doak/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>T. Gingeras</title>
-      <link>https://lilab-cbb.github.io/authors/t.-gingeras/</link>
-      <pubDate>Fri, 24 Mar 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/t.-gingeras/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>T. Tickle</title>
-      <link>https://lilab-cbb.github.io/authors/t.-tickle/</link>
-      <pubDate>Fri, 24 Mar 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/t.-tickle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>X. Yang</title>
-      <link>https://lilab-cbb.github.io/authors/x.-yang/</link>
-      <pubDate>Fri, 24 Mar 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/x.-yang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>F. Deng</title>
-      <link>https://lilab-cbb.github.io/authors/f.-deng/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/f.-deng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>K. Choudhary</title>
-      <link>https://lilab-cbb.github.io/authors/k.-choudhary/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/k.-choudhary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. Ledda</title>
-      <link>https://lilab-cbb.github.io/authors/m.-ledda/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/m.-ledda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>N. P. Shih</title>
-      <link>https://lilab-cbb.github.io/authors/n.-p.-shih/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/n.-p.-shih/</guid>
+      <guid>https://lilab-cbb.github.io/authors/c.-mccabe/</guid>
       <description></description>
     </item>
     
@@ -391,101 +166,29 @@
     </item>
     
     <item>
-      <title>R. Welch</title>
-      <link>https://lilab-cbb.github.io/authors/r.-welch/</link>
-      <pubDate>Tue, 20 Oct 2015 00:00:00 -0400</pubDate>
+      <title>C. Wu</title>
+      <link>https://lilab-cbb.github.io/authors/c.-wu/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://lilab-cbb.github.io/authors/r.-welch/</guid>
+      <guid>https://lilab-cbb.github.io/authors/c.-wu/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>S. Keleş</title>
-      <link>https://lilab-cbb.github.io/authors/s.-kele%C5%9F/</link>
-      <pubDate>Tue, 20 Oct 2015 00:00:00 -0400</pubDate>
+      <title>D. Chung</title>
+      <link>https://lilab-cbb.github.io/authors/d.-chung/</link>
+      <pubDate>Thu, 14 Jul 2011 00:00:00 -0400</pubDate>
       
-      <guid>https://lilab-cbb.github.io/authors/s.-kele%C5%9F/</guid>
+      <guid>https://lilab-cbb.github.io/authors/d.-chung/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>X. Zeng</title>
-      <link>https://lilab-cbb.github.io/authors/x.-zeng/</link>
-      <pubDate>Tue, 20 Oct 2015 00:00:00 -0400</pubDate>
+      <title>D. Dionne</title>
+      <link>https://lilab-cbb.github.io/authors/d.-dionne/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://lilab-cbb.github.io/authors/x.-zeng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Y. Zheng</title>
-      <link>https://lilab-cbb.github.io/authors/y.-zheng/</link>
-      <pubDate>Tue, 20 Oct 2015 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/y.-zheng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. A. Thomson</title>
-      <link>https://lilab-cbb.github.io/authors/j.-a.-thomson/</link>
-      <pubDate>Sun, 21 Dec 2014 00:00:00 -0500</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/j.-a.-thomson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. Collins</title>
-      <link>https://lilab-cbb.github.io/authors/m.-collins/</link>
-      <pubDate>Sun, 21 Dec 2014 00:00:00 -0500</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/m.-collins/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>N. Fillmore*</title>
-      <link>https://lilab-cbb.github.io/authors/n.-fillmore/</link>
-      <pubDate>Sun, 21 Dec 2014 00:00:00 -0500</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/n.-fillmore/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nathanael Fillmore</title>
-      <link>https://lilab-cbb.github.io/authors/nathanael-fillmore/</link>
-      <pubDate>Sun, 21 Dec 2014 00:00:00 -0500</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/nathanael-fillmore/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R. Stewart</title>
-      <link>https://lilab-cbb.github.io/authors/r.-stewart/</link>
-      <pubDate>Sun, 21 Dec 2014 00:00:00 -0500</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/r.-stewart/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Y. Bai</title>
-      <link>https://lilab-cbb.github.io/authors/y.-bai/</link>
-      <pubDate>Sun, 21 Dec 2014 00:00:00 -0500</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/y.-bai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. Papanicolaou</title>
-      <link>https://lilab-cbb.github.io/authors/a.-papanicolaou/</link>
-      <pubDate>Thu, 11 Jul 2013 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/a.-papanicolaou/</guid>
+      <guid>https://lilab-cbb.github.io/authors/d.-dionne/</guid>
       <description></description>
     </item>
     
@@ -499,11 +202,47 @@
     </item>
     
     <item>
+      <title>E. Drokhlyansky</title>
+      <link>https://lilab-cbb.github.io/authors/e.-drokhlyansky/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/e.-drokhlyansky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. H. Bresnick</title>
+      <link>https://lilab-cbb.github.io/authors/e.-h.-bresnick/</link>
+      <pubDate>Thu, 14 Jul 2011 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/e.-h.-bresnick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. Deng</title>
+      <link>https://lilab-cbb.github.io/authors/f.-deng/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/f.-deng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>F. Strozzi</title>
       <link>https://lilab-cbb.github.io/authors/f.-strozzi/</link>
       <pubDate>Thu, 11 Jul 2013 00:00:00 -0400</pubDate>
       
       <guid>https://lilab-cbb.github.io/authors/f.-strozzi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. A. Thomson</title>
+      <link>https://lilab-cbb.github.io/authors/j.-a.-thomson/</link>
+      <pubDate>Sun, 21 Dec 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/j.-a.-thomson/</guid>
       <description></description>
     </item>
     
@@ -526,11 +265,92 @@
     </item>
     
     <item>
+      <title>J. Sun</title>
+      <link>https://lilab-cbb.github.io/authors/j.-sun/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/j.-sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. T. Gaublomme*!</title>
+      <link>https://lilab-cbb.github.io/authors/j.-t.-gaublomme/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/j.-t.-gaublomme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Waldman</title>
+      <link>https://lilab-cbb.github.io/authors/j.-waldman/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/j.-waldman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joshua Gould</title>
+      <link>https://lilab-cbb.github.io/authors/joshua-gould/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/joshua-gould/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Choudhary</title>
+      <link>https://lilab-cbb.github.io/authors/k.-choudhary/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/k.-choudhary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Liang</title>
+      <link>https://lilab-cbb.github.io/authors/k.-liang/</link>
+      <pubDate>Thu, 14 Jul 2011 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/k.-liang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Nguyen</title>
+      <link>https://lilab-cbb.github.io/authors/l.-nguyen/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/l.-nguyen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Pachter</title>
+      <link>https://lilab-cbb.github.io/authors/l.-pachter/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/l.-pachter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>M. B. Couger</title>
       <link>https://lilab-cbb.github.io/authors/m.-b.-couger/</link>
       <pubDate>Thu, 11 Jul 2013 00:00:00 -0400</pubDate>
       
       <guid>https://lilab-cbb.github.io/authors/m.-b.-couger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Collins</title>
+      <link>https://lilab-cbb.github.io/authors/m.-collins/</link>
+      <pubDate>Sun, 21 Dec 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/m.-collins/</guid>
       <description></description>
     </item>
     
@@ -549,6 +369,15 @@
       <pubDate>Thu, 11 Jul 2013 00:00:00 -0400</pubDate>
       
       <guid>https://lilab-cbb.github.io/authors/m.-grabherr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Ledda</title>
+      <link>https://lilab-cbb.github.io/authors/m.-ledda/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/m.-ledda/</guid>
       <description></description>
     </item>
     
@@ -580,11 +409,65 @@
     </item>
     
     <item>
+      <title>N. Fillmore*</title>
+      <link>https://lilab-cbb.github.io/authors/n.-fillmore/</link>
+      <pubDate>Sun, 21 Dec 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/n.-fillmore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>N. Friedman</title>
       <link>https://lilab-cbb.github.io/authors/n.-friedman/</link>
       <pubDate>Thu, 11 Jul 2013 00:00:00 -0400</pubDate>
       
       <guid>https://lilab-cbb.github.io/authors/n.-friedman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. Habib</title>
+      <link>https://lilab-cbb.github.io/authors/n.-habib/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/n.-habib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. P. Shih</title>
+      <link>https://lilab-cbb.github.io/authors/n.-p.-shih/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/n.-p.-shih/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. Pochet</title>
+      <link>https://lilab-cbb.github.io/authors/n.-pochet/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/n.-pochet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. Stransky</title>
+      <link>https://lilab-cbb.github.io/authors/n.-stransky/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/n.-stransky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. Van Wittenberghe</title>
+      <link>https://lilab-cbb.github.io/authors/n.-van-wittenberghe/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/n.-van-wittenberghe/</guid>
       <description></description>
     </item>
     
@@ -598,11 +481,47 @@
     </item>
     
     <item>
+      <title>Nathanael Fillmore</title>
+      <link>https://lilab-cbb.github.io/authors/nathanael-fillmore/</link>
+      <pubDate>Sun, 21 Dec 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/nathanael-fillmore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O. Rozenblatt-Rosen!</title>
+      <link>https://lilab-cbb.github.io/authors/o.-rozenblatt-rosen/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/o.-rozenblatt-rosen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>P. D. Blood</title>
       <link>https://lilab-cbb.github.io/authors/p.-d.-blood/</link>
       <pubDate>Thu, 11 Jul 2013 00:00:00 -0400</pubDate>
       
       <guid>https://lilab-cbb.github.io/authors/p.-d.-blood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. De Jager</title>
+      <link>https://lilab-cbb.github.io/authors/p.-de-jager/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/p.-de-jager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. F. Kuan</title>
+      <link>https://lilab-cbb.github.io/authors/p.-f.-kuan/</link>
+      <pubDate>Thu, 14 Jul 2011 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/p.-f.-kuan/</guid>
       <description></description>
     </item>
     
@@ -625,65 +544,11 @@
     </item>
     
     <item>
-      <title>R. Westerman</title>
-      <link>https://lilab-cbb.github.io/authors/r.-westerman/</link>
-      <pubDate>Thu, 11 Jul 2013 00:00:00 -0400</pubDate>
+      <title>R. M. Stewart</title>
+      <link>https://lilab-cbb.github.io/authors/r.-m.-stewart/</link>
+      <pubDate>Mon, 15 Feb 2010 00:00:00 -0500</pubDate>
       
-      <guid>https://lilab-cbb.github.io/authors/r.-westerman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>T. William</title>
-      <link>https://lilab-cbb.github.io/authors/t.-william/</link>
-      <pubDate>Thu, 11 Jul 2013 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/t.-william/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C. Dewey</title>
-      <link>https://lilab-cbb.github.io/authors/c.-dewey/</link>
-      <pubDate>Thu, 14 Jul 2011 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/c.-dewey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>D. Chung</title>
-      <link>https://lilab-cbb.github.io/authors/d.-chung/</link>
-      <pubDate>Thu, 14 Jul 2011 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/d.-chung/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E. H. Bresnick</title>
-      <link>https://lilab-cbb.github.io/authors/e.-h.-bresnick/</link>
-      <pubDate>Thu, 14 Jul 2011 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/e.-h.-bresnick/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>K. Liang</title>
-      <link>https://lilab-cbb.github.io/authors/k.-liang/</link>
-      <pubDate>Thu, 14 Jul 2011 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/k.-liang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>P. F. Kuan</title>
-      <link>https://lilab-cbb.github.io/authors/p.-f.-kuan/</link>
-      <pubDate>Thu, 14 Jul 2011 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/authors/p.-f.-kuan/</guid>
+      <guid>https://lilab-cbb.github.io/authors/r.-m.-stewart/</guid>
       <description></description>
     </item>
     
@@ -697,11 +562,92 @@
     </item>
     
     <item>
-      <title>R. M. Stewart</title>
-      <link>https://lilab-cbb.github.io/authors/r.-m.-stewart/</link>
-      <pubDate>Mon, 15 Feb 2010 00:00:00 -0500</pubDate>
+      <title>R. Stewart</title>
+      <link>https://lilab-cbb.github.io/authors/r.-stewart/</link>
+      <pubDate>Sun, 21 Dec 2014 00:00:00 -0500</pubDate>
       
-      <guid>https://lilab-cbb.github.io/authors/r.-m.-stewart/</guid>
+      <guid>https://lilab-cbb.github.io/authors/r.-stewart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Welch</title>
+      <link>https://lilab-cbb.github.io/authors/r.-welch/</link>
+      <pubDate>Tue, 20 Oct 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/r.-welch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Westerman</title>
+      <link>https://lilab-cbb.github.io/authors/r.-westerman/</link>
+      <pubDate>Thu, 11 Jul 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/r.-westerman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Aviran</title>
+      <link>https://lilab-cbb.github.io/authors/s.-aviran/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/s.-aviran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Keleş</title>
+      <link>https://lilab-cbb.github.io/authors/s.-kele%C5%9F/</link>
+      <pubDate>Tue, 20 Oct 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/s.-kele%C5%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sirunush Sarkizova</title>
+      <link>https://lilab-cbb.github.io/authors/sirunush-sarkizova/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/sirunush-sarkizova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Doak</title>
+      <link>https://lilab-cbb.github.io/authors/t.-doak/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/t.-doak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Gingeras</title>
+      <link>https://lilab-cbb.github.io/authors/t.-gingeras/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/t.-gingeras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Tickle</title>
+      <link>https://lilab-cbb.github.io/authors/t.-tickle/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/t.-tickle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. William</title>
+      <link>https://lilab-cbb.github.io/authors/t.-william/</link>
+      <pubDate>Thu, 11 Jul 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/t.-william/</guid>
       <description></description>
     </item>
     
@@ -711,6 +657,78 @@
       <pubDate>Mon, 15 Feb 2010 00:00:00 -0500</pubDate>
       
       <guid>https://lilab-cbb.github.io/authors/v.-ruotti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>X. Yang</title>
+      <link>https://lilab-cbb.github.io/authors/x.-yang/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/x.-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>X. Zeng</title>
+      <link>https://lilab-cbb.github.io/authors/x.-zeng/</link>
+      <pubDate>Tue, 20 Oct 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/x.-zeng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>X. Zhao</title>
+      <link>https://lilab-cbb.github.io/authors/x.-zhao/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/x.-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y. Bai</title>
+      <link>https://lilab-cbb.github.io/authors/y.-bai/</link>
+      <pubDate>Sun, 21 Dec 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/y.-bai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y. Yang</title>
+      <link>https://lilab-cbb.github.io/authors/y.-yang/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/y.-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y. Zheng</title>
+      <link>https://lilab-cbb.github.io/authors/y.-zheng/</link>
+      <pubDate>Tue, 20 Oct 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/y.-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yiming Yang</title>
+      <link>https://lilab-cbb.github.io/authors/yiming-yang/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/yiming-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>et al.</title>
+      <link>https://lilab-cbb.github.io/authors/et-al./</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://lilab-cbb.github.io/authors/et-al./</guid>
       <description></description>
     </item>
     

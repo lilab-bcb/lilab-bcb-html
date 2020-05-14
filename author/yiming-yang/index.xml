@@ -1,15 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Li Lab</title>
-    <link>https://lilab-cbb.github.io/author/yiming-yang/</link>
-    <description>Recent content on Li Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy;2019- Bo Li</copyright>
+    <title>Yiming Yang | Li Lab</title>
+    <link>https://lilab-bcb.github.io/author/yiming-yang/</link>
+      <atom:link href="https://lilab-bcb.github.io/author/yiming-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yiming Yang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 - Li Lab</copyright><lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lilab-bcb.github.io/author/yiming-yang/avatar_hu7df5aa5ccdb5405b2093eb2e776a01ab_30014_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Yiming Yang</title>
+      <link>https://lilab-bcb.github.io/author/yiming-yang/</link>
+    </image>
     
-	<atom:link href="https://lilab-cbb.github.io/author/yiming-yang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cumulus</title>
+      <link>https://lilab-bcb.github.io/software/cumulus/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://lilab-bcb.github.io/software/cumulus/</guid>
+      <description>&lt;p&gt;Cumulus is a cloud-based single-cell and single-nucleus RNA-Seq data analysis framework that is scalable, cost-effective, able to process a variety of data types and easily accessible to biologists. It is developed based on Google Cloud Platform and Broad Institute’s FireCloud and Terra services, and is publicly accessible. Cumulus source codes contain two components.  The first component consists of WDL (Workflow Description Language) files and Docker files that are required for workflow execution and listed here. The second component is a Python package Pegasus for analyzing gene-count matrices.&lt;/p&gt;
+&lt;p&gt;Click here to read 
+&lt;a href=&#34;https://cumulus.readthedocs.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cumulus documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Publications:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Manuscript in preparation.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
+    <item>
+      <title>Pegasus</title>
+      <link>https://lilab-bcb.github.io/software/pegasus/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://lilab-bcb.github.io/software/pegasus/</guid>
+      <description>&lt;p&gt;Pegasus is a python package that takes gene-count matrices as input and performs a wide range of analyses, such as &amp;ndash;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quality control;&lt;/li&gt;
+&lt;li&gt;Highly variable gene selection;&lt;/li&gt;
+&lt;li&gt;Batch correction;&lt;/li&gt;
+&lt;li&gt;Principal component analysis (PCA);&lt;/li&gt;
+&lt;li&gt;k-nearest neighbor (kNN) graph construction;&lt;/li&gt;
+&lt;li&gt;Diffusion map;&lt;/li&gt;
+&lt;li&gt;Community-graph based clustering;&lt;/li&gt;
+&lt;li&gt;Visualization on t-SNE, UMAP, and force-directed layout (FLE) embeddings;&lt;/li&gt;
+&lt;li&gt;Differential expression, cluster-specific marker detection;&lt;/li&gt;
+&lt;li&gt;Marker-based cell type annotation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Click here to read 
+&lt;a href=&#34;https://pegasus.readthedocs.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pegasus documentation&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Pegasus is 
+&lt;a href=&#34;https://pypi.org/project/pegasuspy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;released&lt;/a&gt; on PyPI as a Python package.&lt;/p&gt;
+&lt;p&gt;Publications:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Manuscript in preparation.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

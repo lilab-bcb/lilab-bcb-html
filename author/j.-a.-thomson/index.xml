@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. A. Thomson | Li Lab</title>
+    <link>https://lilab-bcb.github.io/author/j.-a.-thomson/</link>
+      <atom:link href="https://lilab-bcb.github.io/author/j.-a.-thomson/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. A. Thomson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 - Li Lab</copyright><lastBuildDate>Sun, 21 Dec 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lilab-bcb.github.io/images/icon_hu5390876616251b0e20b753c24ade551b_141530_512x512_fill_lanczos_center_2.png</url>
+      <title>J. A. Thomson</title>
+      <link>https://lilab-bcb.github.io/author/j.-a.-thomson/</link>
+    </image>
+    
+    <item>
+      <title>Evaluation of de novo Transcriptome Assemblies from RNA-Seq Data</title>
+      <link>https://lilab-bcb.github.io/publication/li-2014/</link>
+      <pubDate>Sun, 21 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://lilab-bcb.github.io/publication/li-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNA-Seq Gene Expression Estimation with Read Mapping Uncertainty</title>
+      <link>https://lilab-bcb.github.io/publication/li-2010/</link>
+      <pubDate>Mon, 15 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>https://lilab-bcb.github.io/publication/li-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

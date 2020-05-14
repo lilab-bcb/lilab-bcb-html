@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Keleş | Li Lab</title>
+    <link>https://lilab-bcb.github.io/author/s.-keles/</link>
+      <atom:link href="https://lilab-bcb.github.io/author/s.-keles/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Keleş</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 - Li Lab</copyright><lastBuildDate>Tue, 20 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lilab-bcb.github.io/images/icon_hu5390876616251b0e20b753c24ade551b_141530_512x512_fill_lanczos_center_2.png</url>
+      <title>S. Keleş</title>
+      <link>https://lilab-bcb.github.io/author/s.-keles/</link>
+    </image>
+    
+    <item>
+      <title>Perm-seq: Mapping Protein-DNA Interactions in Segmental Duplication and Highly Repetitive Regions of Genomes with Prior-Enhanced Read Mapping</title>
+      <link>https://lilab-bcb.github.io/publication/zeng-2015/</link>
+      <pubDate>Tue, 20 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://lilab-bcb.github.io/publication/zeng-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discoevering Transcription Factor Binding Sites in Highly Repetitive Regions of Genomes with Multi-Read Analysis of ChIP-Seq Data</title>
+      <link>https://lilab-bcb.github.io/publication/chung-2011/</link>
+      <pubDate>Thu, 14 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://lilab-bcb.github.io/publication/chung-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

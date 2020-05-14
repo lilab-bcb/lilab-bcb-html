@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Tambe | Li Lab</title>
+    <link>https://lilab-bcb.github.io/author/a.-tambe/</link>
+      <atom:link href="https://lilab-bcb.github.io/author/a.-tambe/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Tambe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 - Li Lab</copyright><lastBuildDate>Wed, 24 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lilab-bcb.github.io/images/icon_hu5390876616251b0e20b753c24ade551b_141530_512x512_fill_lanczos_center_2.png</url>
+      <title>A. Tambe</title>
+      <link>https://lilab-bcb.github.io/author/a.-tambe/</link>
+    </image>
+    
+    <item>
+      <title>PROBer Provides a General Toolkit for Analyzing Sequencing-Based Toeprinting Assays</title>
+      <link>https://lilab-bcb.github.io/publication/li-2017/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://lilab-bcb.github.io/publication/li-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

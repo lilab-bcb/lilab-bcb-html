@@ -1,32 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News on Li Lab</title>
-    <link>https://lilab-cbb.github.io/post/</link>
-    <description>Recent content in News on Li Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy;2019- Bo Li</copyright>
-    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 -0400</lastBuildDate>
-    
-	<atom:link href="https://lilab-cbb.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>News | Li Lab</title>
+    <link>https://lilab-bcb.github.io/post/</link>
+      <atom:link href="https://lilab-bcb.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 - Li Lab</copyright><lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lilab-bcb.github.io/images/icon_hu5390876616251b0e20b753c24ade551b_141530_512x512_fill_lanczos_center_2.png</url>
+      <title>News</title>
+      <link>https://lilab-bcb.github.io/post/</link>
+    </image>
     
     <item>
       <title>Our nucleus hashing and DemuxEM paper is published in Nature Communications today!</title>
-      <link>https://lilab-cbb.github.io/post/paper_published_in_nature_communications/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/post/paper_published_in_nature_communications/</guid>
+      <link>https://lilab-bcb.github.io/post/paper_published_in_nature_communications/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://lilab-bcb.github.io/post/paper_published_in_nature_communications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Li Lab website is created!</title>
-      <link>https://lilab-cbb.github.io/post/li_lab_website_created/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/post/li_lab_website_created/</guid>
+      <link>https://lilab-bcb.github.io/post/li_lab_website_created/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://lilab-bcb.github.io/post/li_lab_website_created/</guid>
       <description></description>
     </item>
     

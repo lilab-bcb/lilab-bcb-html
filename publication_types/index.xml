@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types on Li Lab</title>
-    <link>https://lilab-cbb.github.io/publication_types/</link>
-    <description>Recent content in Publication_types on Li Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy;2019- Bo Li</copyright>
-    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 -0400</lastBuildDate>
-    
-	<atom:link href="https://lilab-cbb.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>2</title>
-      <link>https://lilab-cbb.github.io/publication_types/2/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://lilab-cbb.github.io/publication_types/2/</guid>
-      <description></description>
-    </item>
+    <title>Publication_types | Li Lab</title>
+    <link>https://lilab-bcb.github.io/publication_types/</link>
+      <atom:link href="https://lilab-bcb.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 - Li Lab</copyright><lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lilab-bcb.github.io/images/icon_hu5390876616251b0e20b753c24ade551b_141530_512x512_fill_lanczos_center_2.png</url>
+      <title>Publication_types</title>
+      <link>https://lilab-bcb.github.io/publication_types/</link>
+    </image>
     
   </channel>
 </rss>

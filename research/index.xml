@@ -2,14 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Li Lab</title>
-    <link>https://lilab-cbb.github.io/research/</link>
-    <description>Recent content on Li Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy;2019- Bo Li</copyright>
-    
-	<atom:link href="https://lilab-cbb.github.io/research/index.xml" rel="self" type="application/rss+xml" />
-    
+    <link>https://lilab-bcb.github.io/research/</link>
+      <atom:link href="https://lilab-bcb.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Li Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 - Li Lab</copyright>
+    <image>
+      <url>https://lilab-bcb.github.io/images/icon_hu5390876616251b0e20b753c24ade551b_141530_512x512_fill_lanczos_center_2.png</url>
+      <title>Li Lab</title>
+      <link>https://lilab-bcb.github.io/research/</link>
+    </image>
     
   </channel>
 </rss>

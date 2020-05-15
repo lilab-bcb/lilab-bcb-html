@@ -5,7 +5,7 @@
     <link>https://lilab.mgh.harvard.edu/</link>
       <atom:link href="https://lilab.mgh.harvard.edu/index.xml" rel="self" type="application/rss+xml" />
     <description>Li Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 - Li Lab</copyright><lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 - Li Lab</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://lilab.mgh.harvard.edu/images/icon_hu5390876616251b0e20b753c24ade551b_141530_512x512_fill_lanczos_center_2.png</url>
       <title>Li Lab</title>
@@ -41,6 +41,14 @@
       <link>https://lilab.mgh.harvard.edu/publication/sen-2020/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://lilab.mgh.harvard.edu/publication/sen-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated scRNA-Seq Identifies Human Postnatal Thymus Seeding Progenitors and Regulatory Dynamics of Differentiating Immature Thymocytes</title>
+      <link>https://lilab.mgh.harvard.edu/publication/lavaert-2020/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/publication/lavaert-2020/</guid>
       <description></description>
     </item>
     
@@ -176,6 +184,24 @@
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>https://lilab.mgh.harvard.edu/post/li_lab_website_created/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://lilab.mgh.harvard.edu/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://lilab.mgh.harvard.edu/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
     </item>
     
     <item>

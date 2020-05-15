@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bo Li | Li Lab</title>
+    <link>https://lilab-bcb.github.io/author/admin/</link>
+      <atom:link href="https://lilab-bcb.github.io/author/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bo Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 - Li Lab</copyright>
+    <image>
+      <url>https://lilab-bcb.github.io/author/admin/avatar_hu1fbea0ab109ee2880c3d7e9465a4a69a_2292976_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Bo Li</title>
+      <link>https://lilab-bcb.github.io/author/admin/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -2,36 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joshua Gould | Li Lab</title>
-    <link>https://lilab-bcb.github.io/author/joshua-gould/</link>
-      <atom:link href="https://lilab-bcb.github.io/author/joshua-gould/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lilab.mgh.harvard.edu/author/joshua-gould/</link>
+      <atom:link href="https://lilab.mgh.harvard.edu/author/joshua-gould/index.xml" rel="self" type="application/rss+xml" />
     <description>Joshua Gould</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 - Li Lab</copyright><lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 - Li Lab</copyright><lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lilab-bcb.github.io/images/icon_hu5390876616251b0e20b753c24ade551b_141530_512x512_fill_lanczos_center_2.png</url>
+      <url>https://lilab.mgh.harvard.edu/images/icon_hu5390876616251b0e20b753c24ade551b_141530_512x512_fill_lanczos_center_2.png</url>
       <title>Joshua Gould</title>
-      <link>https://lilab-bcb.github.io/author/joshua-gould/</link>
+      <link>https://lilab.mgh.harvard.edu/author/joshua-gould/</link>
     </image>
     
     <item>
+      <title>Cirrocumulus</title>
+      <link>https://lilab.mgh.harvard.edu/software/cirrocumulus/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/software/cirrocumulus/</guid>
+      <description>&lt;p&gt;Cirrocumulus is an interactive web application for exploring single cell datasets. It can be hosted on Google App Engine application for collaborative use or can be run in standalone mode on a personal computer. Cirrocumulus consists of a client-side component implemented in JavaScript and a server component implemented in Python. The client uses React to manage state and WebGL to visualize variables on a 2D or 3D embedding in a performant manner. The server component consists of functions to manage datasets, slice variables from a dataset stored as a folder of JSON and PARQUET files, and can optionally generate statistical summaries on an n-dimensional grid, thus enabling plotting of millions of cells. Cumulus has options to generate the Cirrocumulus input folder automatically for users. In the standalone mode, Cirrocumulus can additionally support datasets in AnnData or Zarr formats.&lt;/p&gt;
+&lt;p&gt;Click here to read 
+&lt;a href=&#34;https://cirrocumulus.readthedocs.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cirrocumulus documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cirrocumulus is 
+&lt;a href=&#34;https://pypi.org/project/cirrocumulus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;released&lt;/a&gt; on PyPI as a Python package.&lt;/p&gt;
+&lt;p&gt;Publications:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://lilab.mgh.harvard.edu/publication/li-2019&#34;&gt;Cumulus preprint&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Cumulus</title>
-      <link>https://lilab-bcb.github.io/software/cumulus/</link>
-      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://lilab-bcb.github.io/software/cumulus/</guid>
-      <description>&lt;p&gt;Cumulus is a cloud-based single-cell and single-nucleus RNA-Seq data analysis framework that is scalable, cost-effective, able to process a variety of data types and easily accessible to biologists. It is developed based on Google Cloud Platform and Broad Institute’s FireCloud and Terra services, and is publicly accessible. Cumulus source codes contain two components.  The first component consists of WDL (Workflow Description Language) files and Docker files that are required for workflow execution and listed here. The second component is a Python package Pegasus for analyzing gene-count matrices.&lt;/p&gt;
+      <link>https://lilab.mgh.harvard.edu/software/cumulus/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/software/cumulus/</guid>
+      <description>&lt;p&gt;Cumulus is a cloud-based single-cell and single-nucleus RNA-Seq data analysis framework that is scalable, cost-effective, able to process a variety of data types and easily accessible to biologists. It is developed based on Google Cloud Platform and Broad Institute’s FireCloud and Terra services, and is publicly accessible.&lt;/p&gt;
 &lt;p&gt;Click here to read 
 &lt;a href=&#34;https://cumulus.readthedocs.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cumulus documentation&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Publications:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Manuscript in preparation.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://lilab.mgh.harvard.edu/publication/li-2019&#34;&gt;Cumulus preprint&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Pegasus</title>
-      <link>https://lilab-bcb.github.io/software/pegasus/</link>
-      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://lilab-bcb.github.io/software/pegasus/</guid>
+      <link>https://lilab.mgh.harvard.edu/software/pegasus/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/software/pegasus/</guid>
       <description>&lt;p&gt;Pegasus is a python package that takes gene-count matrices as input and performs a wide range of analyses, such as &amp;ndash;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Quality control;&lt;/li&gt;
@@ -51,7 +70,8 @@
 &lt;a href=&#34;https://pypi.org/project/pegasuspy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;released&lt;/a&gt; on PyPI as a Python package.&lt;/p&gt;
 &lt;p&gt;Publications:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Manuscript in preparation.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://lilab.mgh.harvard.edu/publication/li-2019&#34;&gt;Cumulus preprint&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

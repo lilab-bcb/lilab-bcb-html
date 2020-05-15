@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>P. De Jager | Li Lab</title>
-    <link>https://lilab-bcb.github.io/author/p.-de-jager/</link>
-      <atom:link href="https://lilab-bcb.github.io/author/p.-de-jager/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lilab.mgh.harvard.edu/author/p.-de-jager/</link>
+      <atom:link href="https://lilab.mgh.harvard.edu/author/p.-de-jager/index.xml" rel="self" type="application/rss+xml" />
     <description>P. De Jager</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 - Li Lab</copyright><lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lilab-bcb.github.io/images/icon_hu5390876616251b0e20b753c24ade551b_141530_512x512_fill_lanczos_center_2.png</url>
+      <url>https://lilab.mgh.harvard.edu/images/icon_hu5390876616251b0e20b753c24ade551b_141530_512x512_fill_lanczos_center_2.png</url>
       <title>P. De Jager</title>
-      <link>https://lilab-bcb.github.io/author/p.-de-jager/</link>
+      <link>https://lilab.mgh.harvard.edu/author/p.-de-jager/</link>
     </image>
     
     <item>
       <title>Nuclei Multiplexing with Barcoded Antibodies for Single-Nucleus Genomics</title>
-      <link>https://lilab-bcb.github.io/publication/gaublomme-2019/</link>
+      <link>https://lilab.mgh.harvard.edu/publication/gaublomme-2019/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://lilab-bcb.github.io/publication/gaublomme-2019/</guid>
+      <guid>https://lilab.mgh.harvard.edu/publication/gaublomme-2019/</guid>
       <description></description>
     </item>
     

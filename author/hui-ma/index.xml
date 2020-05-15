@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hui Ma | Li Lab</title>
-    <link>https://lilab-bcb.github.io/author/hui-ma/</link>
-      <atom:link href="https://lilab-bcb.github.io/author/hui-ma/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lilab.mgh.harvard.edu/author/hui-ma/</link>
+      <atom:link href="https://lilab.mgh.harvard.edu/author/hui-ma/index.xml" rel="self" type="application/rss+xml" />
     <description>Hui Ma</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 - Li Lab</copyright>
     <image>
-      <url>https://lilab-bcb.github.io/author/hui-ma/avatar_hu35cece84960de3ff384645557dd46396_382670_270x270_fill_lanczos_center_2.png</url>
+      <url>https://lilab.mgh.harvard.edu/author/hui-ma/avatar_hu35cece84960de3ff384645557dd46396_382670_270x270_fill_lanczos_center_2.png</url>
       <title>Hui Ma</title>
-      <link>https://lilab-bcb.github.io/author/hui-ma/</link>
+      <link>https://lilab.mgh.harvard.edu/author/hui-ma/</link>
     </image>
     
   </channel>

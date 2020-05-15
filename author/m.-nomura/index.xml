@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Nomura | Li Lab</title>
+    <link>https://lilab.mgh.harvard.edu/author/m.-nomura/</link>
+      <atom:link href="https://lilab.mgh.harvard.edu/author/m.-nomura/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Nomura</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 - Li Lab</copyright><lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lilab.mgh.harvard.edu/images/icon_hu5390876616251b0e20b753c24ade551b_141530_512x512_fill_lanczos_center_2.png</url>
+      <title>M. Nomura</title>
+      <link>https://lilab.mgh.harvard.edu/author/m.-nomura/</link>
+    </image>
+    
+    <item>
+      <title>A Single-Cell and Single-Nucleus RNA-Seq Toolbox for Fresh and Frozen Human Tumors</title>
+      <link>https://lilab.mgh.harvard.edu/publication/slyper-2020/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/publication/slyper-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

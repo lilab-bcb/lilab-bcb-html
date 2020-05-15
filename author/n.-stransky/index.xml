@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>N. Stransky | Li Lab</title>
-    <link>https://lilab-bcb.github.io/author/n.-stransky/</link>
-      <atom:link href="https://lilab-bcb.github.io/author/n.-stransky/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lilab.mgh.harvard.edu/author/n.-stransky/</link>
+      <atom:link href="https://lilab.mgh.harvard.edu/author/n.-stransky/index.xml" rel="self" type="application/rss+xml" />
     <description>N. Stransky</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 - Li Lab</copyright><lastBuildDate>Fri, 24 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 - Li Lab</copyright><lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lilab-bcb.github.io/images/icon_hu5390876616251b0e20b753c24ade551b_141530_512x512_fill_lanczos_center_2.png</url>
+      <url>https://lilab.mgh.harvard.edu/images/icon_hu5390876616251b0e20b753c24ade551b_141530_512x512_fill_lanczos_center_2.png</url>
       <title>N. Stransky</title>
-      <link>https://lilab-bcb.github.io/author/n.-stransky/</link>
+      <link>https://lilab.mgh.harvard.edu/author/n.-stransky/</link>
     </image>
     
     <item>
+      <title>Accuracy Assessment of Fusion Transcript Detection via Read-Mapping and De Novo Fusion Transcript Assembly-based Methods</title>
+      <link>https://lilab.mgh.harvard.edu/publication/haas-2019/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/publication/haas-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>STAR-Fusion: Fast and Accurate Fusion Transcript Detection from RNA-Seq</title>
-      <link>https://lilab-bcb.github.io/publication/haas-2017/</link>
+      <link>https://lilab.mgh.harvard.edu/publication/haas-2017/</link>
       <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://lilab-bcb.github.io/publication/haas-2017/</guid>
+      <guid>https://lilab.mgh.harvard.edu/publication/haas-2017/</guid>
       <description></description>
     </item>
     

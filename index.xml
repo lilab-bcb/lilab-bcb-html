@@ -2,60 +2,99 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Li Lab</title>
-    <link>https://lilab-bcb.github.io/</link>
-      <atom:link href="https://lilab-bcb.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lilab.mgh.harvard.edu/</link>
+      <atom:link href="https://lilab.mgh.harvard.edu/index.xml" rel="self" type="application/rss+xml" />
     <description>Li Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 - Li Lab</copyright><lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 - Li Lab</copyright><lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lilab-bcb.github.io/images/icon_hu5390876616251b0e20b753c24ade551b_141530_512x512_fill_lanczos_center_2.png</url>
+      <url>https://lilab.mgh.harvard.edu/images/icon_hu5390876616251b0e20b753c24ade551b_141530_512x512_fill_lanczos_center_2.png</url>
       <title>Li Lab</title>
-      <link>https://lilab-bcb.github.io/</link>
+      <link>https://lilab.mgh.harvard.edu/</link>
     </image>
     
     <item>
-      <title>Nuclei Multiplexing with Barcoded Antibodies for Single-Nucleus Genomics</title>
-      <link>https://lilab-bcb.github.io/publication/gaublomme-2019/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://lilab-bcb.github.io/publication/gaublomme-2019/</guid>
+      <title>A Single-Cell and Single-Nucleus RNA-Seq Toolbox for Fresh and Frozen Human Tumors</title>
+      <link>https://lilab.mgh.harvard.edu/publication/slyper-2020/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/publication/slyper-2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Our nucleus hashing and DemuxEM paper is published in Nature Communications today!</title>
-      <link>https://lilab-bcb.github.io/post/paper_published_in_nature_communications/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://lilab-bcb.github.io/post/paper_published_in_nature_communications/</guid>
+      <title>Thousands of Novel Unannotated Proteins Expand the MHC I Immunopeptidome in Cancer</title>
+      <link>https://lilab.mgh.harvard.edu/publication/ouspenskaia-2020/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/publication/ouspenskaia-2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The Li Lab website is created!</title>
-      <link>https://lilab-bcb.github.io/post/li_lab_website_created/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://lilab-bcb.github.io/post/li_lab_website_created/</guid>
+      <title>Welcome co-op student Hui Ma joining our lab!</title>
+      <link>https://lilab.mgh.harvard.edu/post/welcome_hui/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/post/welcome_hui/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cumulus</title>
-      <link>https://lilab-bcb.github.io/software/cumulus/</link>
-      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://lilab-bcb.github.io/software/cumulus/</guid>
-      <description>&lt;p&gt;Cumulus is a cloud-based single-cell and single-nucleus RNA-Seq data analysis framework that is scalable, cost-effective, able to process a variety of data types and easily accessible to biologists. It is developed based on Google Cloud Platform and Broad Institute’s FireCloud and Terra services, and is publicly accessible. Cumulus source codes contain two components.  The first component consists of WDL (Workflow Description Language) files and Docker files that are required for workflow execution and listed here. The second component is a Python package Pegasus for analyzing gene-count matrices.&lt;/p&gt;
+      <title>Harmony-Pytorch</title>
+      <link>https://lilab.mgh.harvard.edu/software/harmony-pytorch/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/software/harmony-pytorch/</guid>
+      <description>&lt;p&gt;Harmony-pytorch is an ultrafast Pytorch implementation of the 
+&lt;a href=&#34;https://www.nature.com/articles/s41592-019-0619-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harmony&lt;/a&gt; batch correction method.&lt;/p&gt;
+&lt;p&gt;Harmony-pytorch is 
+&lt;a href=&#34;https://pypi.org/project/harmony-pytorch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;released&lt;/a&gt; on PyPI as a Python package.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cirrocumulus</title>
+      <link>https://lilab.mgh.harvard.edu/software/cirrocumulus/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/software/cirrocumulus/</guid>
+      <description>&lt;p&gt;Cirrocumulus is an interactive web application for exploring single cell datasets. It can be hosted on Google App Engine application for collaborative use or can be run in standalone mode on a personal computer. Cirrocumulus consists of a client-side component implemented in JavaScript and a server component implemented in Python. The client uses React to manage state and WebGL to visualize variables on a 2D or 3D embedding in a performant manner. The server component consists of functions to manage datasets, slice variables from a dataset stored as a folder of JSON and PARQUET files, and can optionally generate statistical summaries on an n-dimensional grid, thus enabling plotting of millions of cells. Cumulus has options to generate the Cirrocumulus input folder automatically for users. In the standalone mode, Cirrocumulus can additionally support datasets in AnnData or Zarr formats.&lt;/p&gt;
 &lt;p&gt;Click here to read 
-&lt;a href=&#34;https://cumulus.readthedocs.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cumulus documentation&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://cirrocumulus.readthedocs.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cirrocumulus documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cirrocumulus is 
+&lt;a href=&#34;https://pypi.org/project/cirrocumulus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;released&lt;/a&gt; on PyPI as a Python package.&lt;/p&gt;
 &lt;p&gt;Publications:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Manuscript in preparation.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://lilab.mgh.harvard.edu/publication/li-2019&#34;&gt;Cumulus preprint&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
+      <title>Cumulus</title>
+      <link>https://lilab.mgh.harvard.edu/software/cumulus/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/software/cumulus/</guid>
+      <description>&lt;p&gt;Cumulus is a cloud-based single-cell and single-nucleus RNA-Seq data analysis framework that is scalable, cost-effective, able to process a variety of data types and easily accessible to biologists. It is developed based on Google Cloud Platform and Broad Institute’s FireCloud and Terra services, and is publicly accessible.&lt;/p&gt;
+&lt;p&gt;Click here to read 
+&lt;a href=&#34;https://cumulus.readthedocs.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cumulus documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Publications:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://lilab.mgh.harvard.edu/publication/li-2019&#34;&gt;Cumulus preprint&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cumulus: A Cloud-based Data Analysis Framework for Large-scale Single-Cell and Single-Nucleus RNA-seq</title>
+      <link>https://lilab.mgh.harvard.edu/publication/li-2019/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/publication/li-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pegasus</title>
-      <link>https://lilab-bcb.github.io/software/pegasus/</link>
-      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://lilab-bcb.github.io/software/pegasus/</guid>
+      <link>https://lilab.mgh.harvard.edu/software/pegasus/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/software/pegasus/</guid>
       <description>&lt;p&gt;Pegasus is a python package that takes gene-count matrices as input and performs a wide range of analyses, such as &amp;ndash;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Quality control;&lt;/li&gt;
@@ -75,139 +114,190 @@
 &lt;a href=&#34;https://pypi.org/project/pegasuspy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;released&lt;/a&gt; on PyPI as a Python package.&lt;/p&gt;
 &lt;p&gt;Publications:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Manuscript in preparation.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://lilab.mgh.harvard.edu/publication/li-2019&#34;&gt;Cumulus preprint&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
+      <title>The Cumulus manuscript is posted on bioRxiv!</title>
+      <link>https://lilab.mgh.harvard.edu/post/cumulus_biorxiv/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/post/cumulus_biorxiv/</guid>
+      <description>&lt;p&gt;Cumulus manuscript is posted on bioRxiv. You can find the manuscript 
+&lt;a href=&#34;https://lilab.mgh.harvard.edu/publication/li-2019&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accuracy Assessment of Fusion Transcript Detection via Read-Mapping and De Novo Fusion Transcript Assembly-based Methods</title>
+      <link>https://lilab.mgh.harvard.edu/publication/haas-2019/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/publication/haas-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoding Human Fetal Liver Haematopoiesis</title>
+      <link>https://lilab.mgh.harvard.edu/publication/popescu-2019/</link>
+      <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/publication/popescu-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nuclei Multiplexing with Barcoded Antibodies for Single-Nucleus Genomics</title>
+      <link>https://lilab.mgh.harvard.edu/publication/gaublomme-2019/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/publication/gaublomme-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our nucleus hashing and DemuxEM paper is published in Nature Communications today!</title>
+      <link>https://lilab.mgh.harvard.edu/post/paper_published_in_nature_communications/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/post/paper_published_in_nature_communications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Li Lab website is created!</title>
+      <link>https://lilab.mgh.harvard.edu/post/li_lab_website_created/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/post/li_lab_website_created/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PROBer</title>
-      <link>https://lilab-bcb.github.io/software/prober/</link>
+      <link>https://lilab.mgh.harvard.edu/software/prober/</link>
       <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://lilab-bcb.github.io/software/prober/</guid>
+      <guid>https://lilab.mgh.harvard.edu/software/prober/</guid>
       <description>&lt;p&gt;PROBer is the first unified probabilistic framework for the analysis of a diverse set of sequencing-based ‘toeprinting’ assays. These assays are used to probe RNA secondary structure (DMS/SHAPE-Seq), detect epitranscriptomic mark (Pseudo-Seq), or identify RNA-protein interaction (iCLIP/eCLIP), which are important to understanding post-transcriptional gene regulation from all aspects.&lt;/p&gt;
 &lt;p&gt;Click here to view 
 &lt;a href=&#34;http://pachterlab.github.io/PROBer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PROBer website&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Publications:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://lilab-bcb.github.io/publication/li-2017&#34;&gt;PROBer paper&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://lilab.mgh.harvard.edu/publication/li-2017&#34;&gt;PROBer paper&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>PROBer Provides a General Toolkit for Analyzing Sequencing-Based Toeprinting Assays</title>
-      <link>https://lilab-bcb.github.io/publication/li-2017/</link>
+      <link>https://lilab.mgh.harvard.edu/publication/li-2017/</link>
       <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://lilab-bcb.github.io/publication/li-2017/</guid>
+      <guid>https://lilab.mgh.harvard.edu/publication/li-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>STAR-Fusion: Fast and Accurate Fusion Transcript Detection from RNA-Seq</title>
-      <link>https://lilab-bcb.github.io/publication/haas-2017/</link>
+      <link>https://lilab.mgh.harvard.edu/publication/haas-2017/</link>
       <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://lilab-bcb.github.io/publication/haas-2017/</guid>
+      <guid>https://lilab.mgh.harvard.edu/publication/haas-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metrics for Rapid Quality Control in RNA Structure Probing Experiments</title>
-      <link>https://lilab-bcb.github.io/publication/choudhary-2016/</link>
+      <link>https://lilab.mgh.harvard.edu/publication/choudhary-2016/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://lilab-bcb.github.io/publication/choudhary-2016/</guid>
+      <guid>https://lilab.mgh.harvard.edu/publication/choudhary-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perm-seq: Mapping Protein-DNA Interactions in Segmental Duplication and Highly Repetitive Regions of Genomes with Prior-Enhanced Read Mapping</title>
-      <link>https://lilab-bcb.github.io/publication/zeng-2015/</link>
+      <link>https://lilab.mgh.harvard.edu/publication/zeng-2015/</link>
       <pubDate>Tue, 20 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://lilab-bcb.github.io/publication/zeng-2015/</guid>
+      <guid>https://lilab.mgh.harvard.edu/publication/zeng-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DETONATE (DE novo TranscriptOme rNa-seq Assembly with or without the Truth Evaluation)</title>
-      <link>https://lilab-bcb.github.io/software/detonate/</link>
+      <link>https://lilab.mgh.harvard.edu/software/detonate/</link>
       <pubDate>Sun, 21 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://lilab-bcb.github.io/software/detonate/</guid>
+      <guid>https://lilab.mgh.harvard.edu/software/detonate/</guid>
       <description>&lt;p&gt;A de novo transcriptome assembly evaluation package, which contains two components, RSEM-EVAL and REF-EVAL. Bo developed the RSEM-EVAL component.&lt;/p&gt;
 &lt;p&gt;Publications:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://lilab-bcb.github.io/publication/li-2014&#34;&gt;DETONATE paper&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://lilab.mgh.harvard.edu/publication/li-2014&#34;&gt;DETONATE paper&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Evaluation of de novo Transcriptome Assemblies from RNA-Seq Data</title>
-      <link>https://lilab-bcb.github.io/publication/li-2014/</link>
+      <link>https://lilab.mgh.harvard.edu/publication/li-2014/</link>
       <pubDate>Sun, 21 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://lilab-bcb.github.io/publication/li-2014/</guid>
+      <guid>https://lilab.mgh.harvard.edu/publication/li-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>De novo Transcript Sequence Reconstruction from RNA-seq using the Trinity Platform for Reference Generation and Analysis</title>
-      <link>https://lilab-bcb.github.io/publication/haas-2013/</link>
+      <link>https://lilab.mgh.harvard.edu/publication/haas-2013/</link>
       <pubDate>Thu, 11 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://lilab-bcb.github.io/publication/haas-2013/</guid>
+      <guid>https://lilab.mgh.harvard.edu/publication/haas-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RSEM: Accurate Transcript Quantification from RNA-Seq Data with or without a Reference Genome</title>
-      <link>https://lilab-bcb.github.io/publication/li-2011/</link>
+      <link>https://lilab.mgh.harvard.edu/publication/li-2011/</link>
       <pubDate>Thu, 04 Aug 2011 00:00:00 +0000</pubDate>
-      <guid>https://lilab-bcb.github.io/publication/li-2011/</guid>
+      <guid>https://lilab.mgh.harvard.edu/publication/li-2011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CSEM (ChIP-Seq multi-read allocation using Expectation-Maximization)</title>
-      <link>https://lilab-bcb.github.io/software/csem/</link>
+      <link>https://lilab.mgh.harvard.edu/software/csem/</link>
       <pubDate>Thu, 14 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>https://lilab-bcb.github.io/software/csem/</guid>
+      <guid>https://lilab.mgh.harvard.edu/software/csem/</guid>
       <description>&lt;p&gt;As one of the first ChIP-Seq multi-mapping read allocators, CSEM allows multi-reads to be utilized by peak callers.&lt;/p&gt;
 &lt;p&gt;Publications:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://lilab-bcb.github.io/publication/chung-2011&#34;&gt;CSEM paper&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://lilab.mgh.harvard.edu/publication/chung-2011&#34;&gt;CSEM paper&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Discoevering Transcription Factor Binding Sites in Highly Repetitive Regions of Genomes with Multi-Read Analysis of ChIP-Seq Data</title>
-      <link>https://lilab-bcb.github.io/publication/chung-2011/</link>
+      <link>https://lilab.mgh.harvard.edu/publication/chung-2011/</link>
       <pubDate>Thu, 14 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>https://lilab-bcb.github.io/publication/chung-2011/</guid>
+      <guid>https://lilab.mgh.harvard.edu/publication/chung-2011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RNA-Seq Gene Expression Estimation with Read Mapping Uncertainty</title>
-      <link>https://lilab-bcb.github.io/publication/li-2010/</link>
+      <link>https://lilab.mgh.harvard.edu/publication/li-2010/</link>
       <pubDate>Mon, 15 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://lilab-bcb.github.io/publication/li-2010/</guid>
+      <guid>https://lilab.mgh.harvard.edu/publication/li-2010/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RSEM (RNA-Seq by Expectation-Maximization)</title>
-      <link>https://lilab-bcb.github.io/software/rsem/</link>
+      <link>https://lilab.mgh.harvard.edu/software/rsem/</link>
       <pubDate>Mon, 15 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://lilab-bcb.github.io/software/rsem/</guid>
+      <guid>https://lilab.mgh.harvard.edu/software/rsem/</guid>
       <description>&lt;p&gt;RSEM is a widely-used RNA-Seq transcript quantification tool. RSEM papers are cited over 5,300 times. It was served in nationwide consortium projects such as ENCODE (The Encyclopedia of DNA Elements) and TCGA (The Cancer Genome Altas). It is also recommended by HCA (Human Cell Atlas) for analyzing plate-based SMART-Seq2 single-cell RNA-Seq data.&lt;/p&gt;
 &lt;p&gt;Publications:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://lilab-bcb.github.io/publication/li-2010&#34;&gt;RSEM algorithm&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://lilab.mgh.harvard.edu/publication/li-2010&#34;&gt;RSEM algorithm&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://lilab-bcb.github.io/publication/li-2011&#34;&gt;RSEM software&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://lilab.mgh.harvard.edu/publication/li-2011&#34;&gt;RSEM software&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

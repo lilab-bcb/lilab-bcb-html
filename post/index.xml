@@ -2,29 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News | Li Lab</title>
-    <link>https://lilab-bcb.github.io/post/</link>
-      <atom:link href="https://lilab-bcb.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lilab.mgh.harvard.edu/post/</link>
+      <atom:link href="https://lilab.mgh.harvard.edu/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 - Li Lab</copyright><lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 - Li Lab</copyright><lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lilab-bcb.github.io/images/icon_hu5390876616251b0e20b753c24ade551b_141530_512x512_fill_lanczos_center_2.png</url>
+      <url>https://lilab.mgh.harvard.edu/images/icon_hu5390876616251b0e20b753c24ade551b_141530_512x512_fill_lanczos_center_2.png</url>
       <title>News</title>
-      <link>https://lilab-bcb.github.io/post/</link>
+      <link>https://lilab.mgh.harvard.edu/post/</link>
     </image>
     
     <item>
+      <title>Welcome co-op student Hui Ma joining our lab!</title>
+      <link>https://lilab.mgh.harvard.edu/post/welcome_hui/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/post/welcome_hui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Cumulus manuscript is posted on bioRxiv!</title>
+      <link>https://lilab.mgh.harvard.edu/post/cumulus_biorxiv/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/post/cumulus_biorxiv/</guid>
+      <description>&lt;p&gt;Cumulus manuscript is posted on bioRxiv. You can find the manuscript 
+&lt;a href=&#34;https://lilab.mgh.harvard.edu/publication/li-2019&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Our nucleus hashing and DemuxEM paper is published in Nature Communications today!</title>
-      <link>https://lilab-bcb.github.io/post/paper_published_in_nature_communications/</link>
+      <link>https://lilab.mgh.harvard.edu/post/paper_published_in_nature_communications/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://lilab-bcb.github.io/post/paper_published_in_nature_communications/</guid>
+      <guid>https://lilab.mgh.harvard.edu/post/paper_published_in_nature_communications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Li Lab website is created!</title>
-      <link>https://lilab-bcb.github.io/post/li_lab_website_created/</link>
+      <link>https://lilab.mgh.harvard.edu/post/li_lab_website_created/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://lilab-bcb.github.io/post/li_lab_website_created/</guid>
+      <guid>https://lilab.mgh.harvard.edu/post/li_lab_website_created/</guid>
       <description></description>
     </item>
     

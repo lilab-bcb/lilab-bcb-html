@@ -5,12 +5,72 @@
     <link>https://lilab.mgh.harvard.edu/</link>
       <atom:link href="https://lilab.mgh.harvard.edu/index.xml" rel="self" type="application/rss+xml" />
     <description>Li Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 - Li Lab</copyright><lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 - Li Lab</copyright><lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lilab.mgh.harvard.edu/images/icon_hu5390876616251b0e20b753c24ade551b_141530_512x512_fill_lanczos_center_2.png</url>
       <title>Li Lab</title>
       <link>https://lilab.mgh.harvard.edu/</link>
     </image>
+    
+    <item>
+      <title>Welcome co-op students Linhui Chen and Dongyu Zhou joining our lab!</title>
+      <link>https://lilab.mgh.harvard.edu/post/welcome_linhui_and_dongyu/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/post/welcome_linhui_and_dongyu/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://lilab.mgh.harvard.edu/author/linhui-chen&#34;&gt;Linhui Chen&lt;/a&gt; and 
+&lt;a href=&#34;https://lilab.mgh.harvard.edu/author/dongyu-zhou&#34;&gt;Dongyu Zhou&lt;/a&gt; officially join Li Lab today. Hope they have an enjoyable and fruitful time here!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inherited myeloproliferative neoplasm risk affects haematopoietic stem cells</title>
+      <link>https://lilab.mgh.harvard.edu/publication/bao-2020/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/publication/bao-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cumulus featured workspace on Terra is updated</title>
+      <link>https://lilab.mgh.harvard.edu/post/cumulus_featured_workspace/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/post/cumulus_featured_workspace/</guid>
+      <description>&lt;p&gt;The Cumulus 
+&lt;a href=&#34;https://app.terra.bio/#workspaces/kco-tech/Cumulus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured workspace&lt;/a&gt; on &lt;em&gt;Terra&lt;/em&gt; platform has been updated.&lt;/p&gt;
+&lt;p&gt;Users who are interested in using cloud computing for single-cell data analysis can take it as an example to learn about Cumulus. In specific, this featured workspace uses a real-world dataset, and performs the process on gene-count matrix generation and the downstream analysis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cumulus is introduced in Pfizer Workshop</title>
+      <link>https://lilab.mgh.harvard.edu/post/pfizer_workshop/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/post/pfizer_workshop/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://lilab.mgh.harvard.edu/author/yiming-yang&#34;&gt;Yiming Yang&lt;/a&gt; and 
+&lt;a href=&#34;https://lilab.mgh.harvard.edu/author/hui-ma&#34;&gt;Hui Ma&lt;/a&gt; from Li Lab has taken the lead in a tutorial workshop for &lt;em&gt;Pfizer&lt;/em&gt; researchers working on single-cell analysis, which was coordiated by &lt;em&gt;Verily Life Science&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;In this tutorial, Cumulus workflows, Pegasus analysis module in Python, and Cirrocumulus, a cloud-based visualizer on single-cell data, were introduced using a real-world dataset.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cumulus provides cloud-based data analysis for large-scale single-cell and single-nucleus RNA-seq</title>
+      <link>https://lilab.mgh.harvard.edu/publication/li-2020/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/publication/li-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Cumulus paper is published!</title>
+      <link>https://lilab.mgh.harvard.edu/post/cumulus_paper/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://lilab.mgh.harvard.edu/post/cumulus_paper/</guid>
+      <description>&lt;p&gt;Cumulus paper is published in &lt;em&gt;Nature Methods&lt;/em&gt; journal. You can find the paper 
+&lt;a href=&#34;https://lilab.mgh.harvard.edu/publication/li-2020&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Single-Cell and Single-Nucleus RNA-Seq Toolbox for Fresh and Frozen Human Tumors</title>
@@ -33,7 +93,9 @@
       <link>https://lilab.mgh.harvard.edu/post/welcome_hui/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
       <guid>https://lilab.mgh.harvard.edu/post/welcome_hui/</guid>
-      <description></description>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://lilab.mgh.harvard.edu/author/hui-ma&#34;&gt;Hui Ma&lt;/a&gt; officially joins Li Lab today. Although this is a tough time all over the country, hope she could have a time learning a lot and having fun in our lab!&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -96,14 +158,6 @@
 &lt;a href=&#34;https://lilab.mgh.harvard.edu/publication/li-2019&#34;&gt;Cumulus preprint&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Cumulus: A Cloud-based Data Analysis Framework for Large-scale Single-Cell and Single-Nucleus RNA-seq</title>
-      <link>https://lilab.mgh.harvard.edu/publication/li-2019/</link>
-      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://lilab.mgh.harvard.edu/publication/li-2019/</guid>
-      <description></description>
     </item>
     
     <item>
